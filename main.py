@@ -156,5 +156,5 @@ print(comparison_b[["Item Code", "Eligible"]])
 print(comparison_c[["Item Code", "Eligible"]])
 print(comparison_d[["Item Code", "Eligible"]])
 
-def supplier_summary():
+def supplier_overview():
     print("Supplier summary")
