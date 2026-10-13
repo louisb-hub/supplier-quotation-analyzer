@@ -2,7 +2,7 @@
 
 A Python tool for comparing supplier quotations against a Request for Quotation (RFQ).
 
-## All Features
+## All Features below:
 - Compares quoted quantities with requested quantities.
 - Identifies missing items and non-compliant specifications.
 - Calculates quotation totals
